@@ -18,8 +18,12 @@ RhinocerosおよびGrasshopperはRobert McNeel & Associatesの登録商標です
 
 MiniHopper is licensed under the Apache License, Version2.0
 
-MiniHopperのLicenseの表記は、GhPythonやC# Scriptの中にある表記でも問題ないこととします。\
-ただし、改変を行った場合はこの限りではありません。
+本来Licenseの表記は、分かりやすい場所に置くものが一般的です。\
+しかしMiniHopperでは、GhPythonやC# Scriptの中にある表記でも問題ありません。\
+ただし、改変を行った場合は分かりやすい場所にその改変事項を記載することを推奨します。
+
+GhPythonが新たに生成したComponent等、自動生成されたComponentに関して\
+そのComponentの配置やパラメーター等の著作権を放棄します。
 
 ## Feature
 
