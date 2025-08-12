@@ -1,0 +1,10 @@
+---
+name: MiniHopper
+version: 0.1.0
+authors:
+- Saito40
+description: When Rhinoceros® and Grasshopper® share GH files with custom components, it is complicated to match the added assemblies and versions. To alleviate this, simple processes may be handled by GhPython, C# Script, etc. We have compiled such scripts as UserObjects.
+url: https://github.com/Saito40/MiniHopper
+keywords:
+  - UserObject
+icon: icon.png
